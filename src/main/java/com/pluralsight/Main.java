@@ -33,7 +33,7 @@ public class Main
         if (wantRoadsideAssistance) basicCarRental += 3.95;
 
         double totalCost = basicCarRental * daysForRental;
-        System.out.printf("The The total cost %.2f", totalCost);
+        System.out.printf("The total cost %.2f", totalCost);
 
     }
 
